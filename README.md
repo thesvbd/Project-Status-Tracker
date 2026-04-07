@@ -4,6 +4,8 @@
 
 A web application for tracking the status of digital agency projects. Each project contains pages, and each page progresses through development phases — from design to final client approval.
 
+![Demo](assets/app-preview.gif)
+
 ## Tech Stack
 
 | Area | Choice |
